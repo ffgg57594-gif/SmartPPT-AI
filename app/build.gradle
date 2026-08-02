@@ -9,8 +9,8 @@ android {
         targetSdkVersion 36
         
         // --- التغيير الأهم: يجب زيادة هذا الرقم في كل تحديث ---
-        versionCode 6 
-        versionName "1.2.3" 
+        versionCode 7 
+        versionName "1.2.4" 
         // ----------------------------------------------------
     }
 
